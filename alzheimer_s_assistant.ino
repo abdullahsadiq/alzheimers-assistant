@@ -1,3 +1,7 @@
+/*
+The main code for the project, used once you've configured and got the HC-05 to work with Sensor Hub Nano
+*/
+
 //Including required libraries
 #include <BlynkSimpleMKR1000.h>
 #include <WidgetRTC.h>
